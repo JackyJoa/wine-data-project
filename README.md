@@ -1,5 +1,4 @@
-# wine-data-project
-Dataset info:
+# wine-data-project Dataset info:
 The dataset is related to Portuguese "Vinho Verde" wines. For more info: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 File sources: http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv
 http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv
